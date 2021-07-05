@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lalaUpdated">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/premierLeague/lalaUpdated.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
